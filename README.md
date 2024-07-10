@@ -1,7 +1,7 @@
 vc-emotion-detection
 ==============================
 
-Emotion Detection MLOPS project
+An Emotion Detection MLOPS project
 
 Project Organization
 ------------
